@@ -1,0 +1,4 @@
+1 - Beef - Curry - 180
+2 - Mutton - Roast - 250
+3 - Egg - boiled - 20
+4 - vegetable - spicy - 120

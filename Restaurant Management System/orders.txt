@@ -1,0 +1,52 @@
+Order ID: 1718648581
+Customer Name: Raju
+Phone Number: 098765432
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+1 - Beef - Curry - 1 - 180
+Total Price: 580
+-----------------------------
+Order ID: 1718649694
+Customer Name: Karim
+Phone Number: 098765
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+3 - Mutton - Roast - 1 - 250
+2 - Chicken - Roast - 1 - 200
+Total Price: 850
+-----------------------------
+Order ID: 1718651475
+Customer Name: Himel
+Phone Number: 2345
+Items Ordered:
+4 - Rice - Bashmoti - 3 - 600
+2 - Chicken - Roast - 1 - 200
+1 - Beef - Curry - 1 - 180
+Total Price: 980
+-----------------------------
+Order ID: 1718714569
+Customer Name: Tajul
+Phone Number: 123456
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+1 - Beef - Curry - 2 - 360
+Total Price: 760
+-----------------------------
+Order ID: 1718726482
+Customer Name: Siddik
+Phone Number: 1234567
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+3 - Mutton - Roast - 1 - 250
+2 - Chicken - Roast - 1 - 200
+1 - Beef - Curry - 2 - 360
+Total Price: 1210
+-----------------------------
+Order ID: 1719738104
+Customer Name: Ruman
+Phone Number: 092876543
+Items Ordered:
+3 - Mutton - Roast - 2 - 500
+1 - Beef - Curry - 2 - 360
+Total Price: 860
+-----------------------------
